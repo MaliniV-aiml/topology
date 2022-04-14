@@ -1,4 +1,4 @@
-# topology
+# Topological data Analysis
 
 This is an attempt to use the topological data analysid (TDA) on breast cancer & skin cancer datasets
 
